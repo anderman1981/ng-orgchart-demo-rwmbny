@@ -1,0 +1,14 @@
+.response-wrapper {
+  min-height: 600px;
+  width: 100%;
+  padding: 10px;
+}
+
+.wrapper {
+  /* text-align: center; */
+  /* padding: 50px auto; */
+}
+
+organization-chart {
+  margin: 0 auto;
+}
